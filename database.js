@@ -4,7 +4,7 @@
  */
 
 //importação do mongoose
-const mongoose = require('mongose')
+const mongoose = require('mongoose')
 
 //Configuração do banco de dados
 
